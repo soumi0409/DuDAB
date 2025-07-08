@@ -1,2 +1,2 @@
-# isea-bootcamp-2025
-List of PoCs and assignments related to ISEA bootcamp 2025.
+# DuDAB
+A Dual-Staged, Lightweight Detection Methodology for Adversarial Attacks in a Black-Box Setting
